@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1220" height="275" viewBox="0 0 1220 275" role="img" aria-labelledby="title">
+<title id="title">Discover — guest-first places, experiences, and group discovery platform</title>
+<defs><pattern id="p" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#BBD3C7" stroke-width=".7" opacity=".14"/></pattern></defs>
+<rect width="1220" height="275" rx="16" fill="#1C2A2A"/><rect width="1220" height="275" rx="16" fill="url(#p)"/>
+<text x="42" y="47" font-family="Inter,Segoe UI,Arial,sans-serif" font-weight="700" font-size="13" letter-spacing="4" fill="#ADD0C0">CURRENT FOCUS   /   PRODUCT IN DEVELOPMENT</text>
+<text x="40" y="134" font-family="Inter,Segoe UI,Arial,sans-serif" font-weight="700" font-size="63" letter-spacing="-1.5" fill="#F5F6F1">Discover<tspan fill="#B8D1BE">.</tspan></text>
+<text x="43" y="177" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="19" fill="#C9D7D1">A more meaningful way to find places, activities &amp; shared experiences.</text>
+<text x="43" y="242" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12" font-weight="650" letter-spacing="2.3" fill="#ADD0C0">DISCOVERY   /   EXPLORATION   /   PRIVATE GROUP DECISIONS</text>
+<g transform="translate(1020 139)" fill="none" stroke="#A4CBB7" opacity=".9">
+<circle r="102" stroke-width="1.5" opacity=".4"/><circle r="73" stroke-width="1.8" opacity=".7"/><circle r="40" stroke-width="1.8"/>
+<path d="M-140 0H140M0 -140V140" opacity=".24"/><path d="M0 -86C31 -44 47 -11 0 54C-45 -12 -31 -46 0 -86Z" stroke-width="3" fill="#304943"/>
+<circle cy="-21" r="17" stroke-width="3" fill="#1C2A2A"/><circle cx="-72" cy="-48" r="6" fill="#A4CBB7"/><circle cx="74" cy="47" r="6" fill="#A4CBB7"/>
+</g></svg>
