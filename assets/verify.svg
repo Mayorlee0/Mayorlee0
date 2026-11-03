@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="260" viewBox="0 0 760 260" role="img" aria-labelledby="title"><title id="title">Verify Protocol — Product verification &amp; rewards MVP</title>
+<defs><pattern id="lines" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#FFFFFF" opacity="0.065" stroke-width=".7"/></pattern></defs>
+<rect width="760" height="260" rx="16" fill="#19222C"/><rect width="760" height="260" rx="16" fill="url(#lines)"/>
+<path d="M29 30H731" stroke="#FFFFFF" opacity=".16"/>
+<text x="38" y="57" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12" font-weight="700" letter-spacing="3.2" fill="#B4C9E6">AUTHENTICITY   /   WEB3</text>
+<text x="38" y="153" font-family="Inter,Segoe UI,Arial,sans-serif" font-weight="750" font-size="46" letter-spacing="-1.3" fill="#F8F8F4">Verify Protocol</text>
+<text x="41" y="188" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16" fill="#CED7D4">Product verification &amp; rewards MVP</text>
+<path d="M40 221H720" stroke="#FFFFFF" opacity=".20"/>
+<text x="41" y="243" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="10" letter-spacing="2.0" fill="#A9BEBB">MAYORLEE0  /  FEATURED WORK</text>
+<g transform="translate(570 140)" fill="none" stroke="#B4C9E6" stroke-width="3" opacity=".85"><path d="M0 -75L66 -46V30Q40 66 0 87Q-40 66 -66 30V-46Z"/><path d="M-27 5L-5 28L38 -17" stroke-width="7" stroke-linejoin="round" stroke-linecap="round"/></g></svg>
